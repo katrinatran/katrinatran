@@ -4,7 +4,7 @@
 > - languages: Java, Python, C++, SQL
 > - markup: HTML, CSS, Markdown
 > - softwares/platforms: MySQL, AWS, Eclipse, PyCharm, Visual Studio Code, Oracle VM VirtualBox, Jupyter Notebook
-> - areas that I have worked with a little bit: Prolog, Racket, NoSQL, Cassandra, Javascript, Ruby
+> - areas that I have worked with a little bit: Prolog, Racket, NoSQL, Cassandra, Javascript, Ruby, PHP
 
 ``( •̀ ω •́ )✧`` Some of my interests and hobbies:
 > - ``📖`` I love to read. I reached my goodreads goal early this year (2022) so I increased it but I hit it again. I'm currently at 56 books this year!
