@@ -3,7 +3,7 @@
 ``⌨️`` My technical skills: 
 > - languages: Java, Python, C++, SQL
 > - markup: HTML, CSS, Markdown
-> - softwares/platforms: MySQL, AWS, Eclipse, PyCharm, Visual Studio Code, Oracle VM VirtualBox
+> - softwares/platforms: MySQL, AWS, Eclipse, PyCharm, Visual Studio Code, Oracle VM VirtualBox, Jupyter Notebook
 > - areas that I have worked with a little bit: Prolog, Racket, NoSQL, Cassandra, Javascript, Ruby
 
 ``( •̀ ω •́ )✧`` Some of my interests and hobbies:
