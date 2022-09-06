@@ -10,13 +10,11 @@
 > - ``📖`` I love to read. I reached my goodreads goal early this year (2022) so I increased it but I hit it again. I'm currently at 56 books this year!
 > - ``🍕`` I love to eat. As per the emoji, I love pizza! I also enjoy kbbq, hot pot, hủ tiếu khô, and mì khô. I also love desserts and candies like M&Ms, crêpes, and ice cream.
 > - ``🥐`` I bake. I'm pretty proud of my brioche and Choux au Craquelin.
-> - ``👨‍👩‍👧‍👧`` I spend a lot of time with my family.
-> - ``🌲`` I enjoy going out to parks and relaxing on the grass.
+> - ``👨‍👩‍👧‍👧`` I spend a lot of time with my friends and family.
+> - ``🌲`` I enjoy going out to parks, relaxing on the grass, and playing games.
 
 ``(❁´◡`❁)`` Some projects I'm currently working on/news with me:
 > - ``🔐`` My Master's Project, "Robustness of Image-Based Malware Analysis", was accepted for presentation and publication in the Proceedings of 3rd International Silicon Valley Cybersecurity Conference 2022!
-
-``📫`` Anyways, if you want to reach me, the best way would be through my email at katrinatran21@gmail.com.
 
 Katrina Tran
 ᓚᘏᗢ
