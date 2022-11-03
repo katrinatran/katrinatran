@@ -7,7 +7,7 @@
 > - areas that I have worked with a little bit: Prolog, Racket, NoSQL, Cassandra, Javascript, Ruby, PHP
 
 ``( •̀ ω •́ )✧`` Some of my interests and hobbies:
-> - ``📖`` I love to read. I reached my goodreads goal early this year (2022) so I increased it but I hit it again. I'm currently at 56 books this year!
+> - ``📖`` I love to read. I reached my goodreads goal early this year (2022) so I increased it but I hit it again. I'm currently at 62 books this year!
 > - ``🍕`` I love to eat. As per the emoji, I love pizza! I also enjoy kbbq, hot pot, hủ tiếu khô, and mì khô. I also love desserts and candies like M&Ms, crêpes, and ice cream.
 > - ``🥐`` I bake. I'm pretty proud of my brioche and Choux au Craquelin.
 > - ``👨‍👩‍👧‍👧`` I spend a lot of time with my friends and family.
